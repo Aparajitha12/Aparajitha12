@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 👋 Hi, I'm Balaaparajitha S
 
 ### AI/ML Engineer • Agentic AI Builder • Data Science Graduate Student
@@ -11,44 +12,136 @@
 </div>
 
 ---
+## About Me
 
-# About Me
+<table>
+<tr>
+<td align="center" width="33%">
 
-```python
-class Balaaparajitha:
+### AI Engineer
 
-    education = [
-        "Integrated M.Sc Data Science @ Amrita Vishwa Vidyapeetham",
-        "Global Mobility Program @ Universitat de Barcelona"
-    ]
+Building production-ready AI systems
 
-    current_role = "AI/ML Engineer Intern @ Rungta Ventures"
+</td>
 
-    interests = [
-        "Agentic AI",
-        "LLMs",
-        "RAG",
-        "Reinforcement Learning",
-        "MLOps",
-        "Explainable AI"
-    ]
+<td align="center" width="33%">
 
-    motto = "Building AI systems that can reason, decide and act."
+### Researcher
+
+Exploring Agentic AI, RL and Explainable AI
+
+</td>
+
+<td align="center" width="33%">
+
+### Builder
+
+Creating Multi-Agent and LLM-powered applications
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+🎓 Amrita Vishwa Vidyapeetham
+
+</td>
+
+<td>
+
+🌍 Universitat de Barcelona
+
+</td>
+
+<td>
+
+💼 Rungta Ventures
+
+</td>
+</tr>
+</table>
 ```
 
 ---
 
 # AI Engineer Dashboard
 
-| Metric | Value |
-|----------|----------|
-| AI Projects Built | 5+ |
-| Multi-Agent Systems | 2+ |
-| ML Models Deployed | 4+ |
-| Research Areas | RL, RAG, LLMs |
-| Exchange Program | Universitat de Barcelona |
-| Current Role | AI/ML Engineer Intern |
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700">
+</p>
 
+<table>
+<tr>
+<td align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
+
+### Agentic AI
+
+Multi-Agent Systems  
+Autonomous Workflows  
+Reasoning Agents
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250">
+
+### LLM Engineering
+
+RAG Pipelines  
+Prompt Engineering  
+Fine-Tuning
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250">
+
+### MLOps
+
+Docker  
+CI/CD  
+FastAPI  
+Deployment
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250">
+
+### Machine Learning
+
+XGBoost  
+PyTorch  
+TensorFlow  
+Explainable AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## Live Metrics
+
+```text
+PROJECTS DEPLOYED      ██████████ 100%
+AGENTIC AI             ██████████ 100%
+LLM APPLICATIONS       █████████░  90%
+REINFORCEMENT LEARNING ████████░░  80%
+MLOPS                  ████████░░  80%
+EXPLAINABLE AI         █████████░  90%
+```
 ---
 
 # Tech Stack
@@ -83,57 +176,59 @@ class Balaaparajitha:
 
 # Featured Projects
 
-## AI-Powered Counter-UAS Decision Support System
+<table>
+<tr>
+<td align="center" width="50%">
 
-- Threat Assessment using XGBoost
-- SHAP Explainability
-- Swarm Detection using NetworkX
-- Real-Time Dashboard
-- Docker Deployment
-- ~99% Validation Accuracy
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%">
+
+### Counter-UAS Decision Support System
+
+Threat Assessment • SHAP Explainability • Swarm Detection • Real-Time Monitoring
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%">
+
+### Agentic AI AutoDS
+
+Multi-Agent Workflows • Automated EDA • Model Training • Insight Generation
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%">
+
+### EV Dynamic Pricing Agent
+
+Reinforcement Learning • Dynamic Pricing • API Integration • CI/CD
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%">
+
+### Offline STT + RAG Assistant
+
+Whisper • FAISS • Local LLMs • Action Execution
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Agentic AI AutoDS System
+# AI Research Network
 
-- Multi-Agent Architecture
-- Automated EDA
-- Automated Model Training
-- Automated Reporting
-- Ollama + Flask
-
----
-
-## EV Charging Dynamic Pricing Agent
-
-- Reinforcement Learning
-- Dynamic Pricing
-- REST APIs
-- GitHub Actions CI/CD
-- Streamlit Dashboard
-
----
-
-## Offline STT + RAG Assistant
-
-- Faster Whisper
-- Silero VAD
-- FAISS
-- Local LLMs
-- ~1.13s End-to-End Latency
-
----
-
-# Research Interests
-
-```text
-Agentic AI
-Multi-Agent Systems
-LLM Fine-Tuning
-Reinforcement Learning
-RAG Architectures
-Explainable AI
-MLOps
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 ```
 
 ---
@@ -183,5 +278,3 @@ MLOps
 
 
 ---
-
-![snake](https://github.com/Aparajitha12/Aparajitha12/blob/output/github-contribution-grid-snake.svg)
